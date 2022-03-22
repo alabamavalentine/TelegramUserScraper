@@ -1,0 +1,5 @@
+pip3 install -r requirements.txt
+python3 scrapeSingleGroup.py
+API_ID = 11239513
+API_HASH = 3ae9796dfb7bc38716608490c1efc985
+PHONE = +447511006520
